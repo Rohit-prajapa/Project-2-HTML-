@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+main{
+    display: flex;
+}
+body{
+    background-color: antiquewhite;
+}
+
+div{
+   height: 200px;
+    width: 200px;
+}
+
+#Box1{
+    background-color: aquamarine;
+}
+
+#Box2{
+    background-color: pink;
+}
+
+#Box3{
+    background-color: red;
+}
